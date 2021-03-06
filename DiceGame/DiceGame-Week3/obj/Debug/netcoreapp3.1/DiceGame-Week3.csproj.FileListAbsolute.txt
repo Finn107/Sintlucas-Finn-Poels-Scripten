@@ -1,0 +1,13 @@
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\bin\Debug\netcoreapp3.1\DiceGame-Week3.exe
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\bin\Debug\netcoreapp3.1\DiceGame-Week3.deps.json
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\bin\Debug\netcoreapp3.1\DiceGame-Week3.runtimeconfig.json
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\bin\Debug\netcoreapp3.1\DiceGame-Week3.runtimeconfig.dev.json
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\bin\Debug\netcoreapp3.1\DiceGame-Week3.dll
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\bin\Debug\netcoreapp3.1\DiceGame-Week3.pdb
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.AssemblyInfoInputs.cache
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.AssemblyInfo.cs
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.csproj.CoreCompileInputs.cache
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.dll
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.pdb
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.genruntimeconfig.cache
+C:\Users\finnn\OneDrive\Scripten\Periode 3\DiceGame\DiceGame-Week3\obj\Debug\netcoreapp3.1\DiceGame-Week3.csprojAssemblyReference.cache
